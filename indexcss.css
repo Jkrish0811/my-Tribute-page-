@@ -3,10 +3,10 @@ html {
   } 
     #main {
       text-align: center;
-      background-color: silver;
+      background-color: rgb(21, 170, 33);
     }
     #title{
-      background-color: rgba(0,0,0,.2);
+      background-color: rgba(54, 78, 9, 0.2);
     }
   h1 {
     font-size: 
@@ -48,6 +48,7 @@ html {
     font-style: italic;
     font-size: 25px;
     font-weight: bold;
+    background-color: aliceblue;
   }
   footer{
     background-color: #00ffff;
